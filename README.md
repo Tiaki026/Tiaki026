@@ -64,17 +64,6 @@
 
 ---
 
-### 📈 Активность
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaki026&layout=compact&theme=radical)](https://github.com/Tiaki026)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiaki026&show_icons=true&theme=radical)](https://github.com/Tiaki026)
-
-</div>
-
----
-
 ### 🤝 Для связи со мной
 
 <p align="center">
@@ -85,6 +74,17 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📈 Активность
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaki026&layout=compact&theme=radical)](https://github.com/Tiaki026)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiaki026&show_icons=true&theme=radical)](https://github.com/Tiaki026)
+
+</div>
 
 ---
 
